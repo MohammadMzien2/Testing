@@ -12,3 +12,5 @@ it('should sum 1 + 2', () => {
 it('should sum 1 + 2', () => {
     expect(sum (1, 2, 3, 4)).toBe( 10 )
 })
+
+it('should eat lunch')
