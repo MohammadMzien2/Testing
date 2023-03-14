@@ -14,6 +14,7 @@ describe('tests addition', () => {
         expect(add(1, 2, 3, 4)).toBe(10)
     })
 })
+
 describe('test subtraction', () => {
     it('should subtract 50 from 100', () => {
         expect( sub(100, 50) ).toBe(50)
